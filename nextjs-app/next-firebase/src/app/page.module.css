@@ -7,6 +7,10 @@
   min-height: 100vh;
 }
 
+.simpleForm {
+  flex-grow: 1;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
